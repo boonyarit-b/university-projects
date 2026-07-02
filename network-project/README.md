@@ -27,3 +27,7 @@ The project was completed as a team-based university project during Computer Eng
 - FreeRADIUS
 - Cisco Prime Infrastructure
 - Embedded Wireless Controller (EWC)
+
+## Project Report
+
+- [Full Project Report](https://link.psu.th/826Xcy)
