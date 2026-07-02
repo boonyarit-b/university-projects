@@ -4,6 +4,12 @@ This project focuses on designing and implementing a centralized enterprise netw
 
 The project was completed as a team-based university project during Computer Engineering studies.
 
+![Network Architecture](diagrams/network-architecture.png)
+
+## Authentication Workflow
+
+![Authentication Workflow](diagrams/wireless-authentication-flow.png)
+
 ## Features
 
 - VLAN Segmentation
@@ -31,3 +37,4 @@ The project was completed as a team-based university project during Computer Eng
 ## Project Report
 
 - [Full Project Report](https://link.psu.th/826Xcy)
+
