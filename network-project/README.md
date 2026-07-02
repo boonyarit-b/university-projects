@@ -9,6 +9,7 @@ The project was completed as a team-based university project during Computer Eng
 - VLAN Segmentation
 - Centralized Wireless Management
 - Inter-VLAN Routing
+- WPA2-Enterprise / Web Authentication
 - RADIUS Authentication
 - ACL Security Policies
 - DHCP Services
@@ -25,3 +26,4 @@ The project was completed as a team-based university project during Computer Eng
 - Raspberry Pi 4
 - FreeRADIUS
 - Cisco Prime Infrastructure
+- Embedded Wireless Controller (EWC)
