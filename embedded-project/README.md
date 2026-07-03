@@ -15,6 +15,10 @@ The system combines:
 
 The project integrates embedded systems, IoT communication, sensor processing, and web-based control into a single platform.
 
+## Prototype Overview
+
+![Prototype](screenshots/prototype-overview.png)
+
 ---
 
 ## My Contribution
