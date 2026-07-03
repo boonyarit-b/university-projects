@@ -3,13 +3,13 @@
 Screenshots related to the embedded system prototype, hardware implementation, and IoT integration.
 
 ## Prototype Overview
-![Prototype Overview](prototype-overview.png)
+<img src="prototype-overview.png" width="700">
 
 ## Project Overview
-![Project Overview](project-overview.jpg)
+<img src="project-overview.jpg" width="700">
 
 ## Real Hardware (Inside)
-![Real Hardware Inside](real-hardware-inside.jpg)
+<img src="real-hardware-inside.jpg" width="700">
 
 ## Real Hardware (Outside)
-![Real Hardware Outside](real-hardware-outside.jpg)
+<img src="real-hardware-outside.jpg" width="700">
