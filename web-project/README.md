@@ -39,16 +39,16 @@ This project was developed by a team of 4 members during the first year of Compu
 ## Screenshots
 
 ### Homepage UI
-![Homepage](screenshots/homepage-ui.png)
+<img src="screenshots/homepage-ui.png" width="750">
 
 ### Tour Booking UI
-![Tour Booking](screenshots/tour-booking-ui.png)
+<img src="screenshots/tour-booking-ui.png" width="750">
 
 ### Login Page
-![Login](screenshots/login-page.png)
+<img src="screenshots/login-page.png" width="750">
 
 ### Figma Wireframe
-![Wireframe](screenshots/figma-wireframe.png)
+<img src="screenshots/figma-wireframe.png" width="850">
 
 ## Project Report
 
