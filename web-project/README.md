@@ -25,10 +25,18 @@ This project was developed by a team of 4 members during the first year of Compu
 
 ## Technologies Used
 
+### Frontend
 - HTML
 - CSS
 - JavaScript
+
+### UI/UX Design
 - Figma
+
+### Concepts
+- Responsive Design
+- User Flow Design
+- Wireframing
 
 ## Project Structure
 
