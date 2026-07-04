@@ -88,3 +88,9 @@ The system was divided into multiple processing nodes:
 - L298N Motor Driver
 - DC Motors
 - Webcam
+
+# Project Report
+
+The full project report and documentation can be accessed through the link below.
+
+[View Project Report](https://link.psu.th/TWQsyw)
