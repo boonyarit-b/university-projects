@@ -4,11 +4,11 @@ This project focuses on designing and implementing a centralized enterprise netw
 
 The project was completed as a team-based university project during Computer Engineering studies.
 
-![Network Architecture](diagrams/network-architecture.png)
+<img src="diagrams/network-architecture.png" width="700">
 
 ## Authentication Workflow
 
-![Authentication Workflow](diagrams/wireless-authentication-flow.png)
+<img src="diagrams/wireless-authentication-flow.png" width="600">
 
 ## Features
 
@@ -24,15 +24,25 @@ The project was completed as a team-based university project during Computer Eng
 
 ## Technologies Used
 
+### Networking Devices
 - Cisco Catalyst 9200L
 - Cisco Catalyst 2960
 - Cisco WLC 2504
 - Cisco Access Points
-- MikroTik RouterOS
-- Raspberry Pi 4
+
+### Network Services
 - FreeRADIUS
+- DHCP
+- WPA2-Enterprise
+- ACL
+
+### Monitoring & Management
 - Cisco Prime Infrastructure
 - Embedded Wireless Controller (EWC)
+
+### Supporting Systems
+- MikroTik RouterOS
+- Raspberry Pi 4
 
 ## Project Report
 
