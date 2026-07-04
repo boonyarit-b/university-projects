@@ -50,8 +50,6 @@ This project was developed by a team of 4 members during the first year of Compu
 ### Figma Wireframe
 ![Wireframe](screenshots/figma-wireframe.png)
 
-## Report
+## Project Report
 
-Full documentation is available in:
-
-`report/RS-Doc_PaiSaBai_FinalVer.pdf`
+[View Full Project Report](report/RS-Doc_PaiSaBai_FinalVer.pdf)
