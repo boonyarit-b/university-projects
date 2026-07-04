@@ -1,3 +1,7 @@
 # Network Diagrams
 
-This folder contains network topology and authentication workflow diagrams used in the project.
+## Network Architecture
+<img src="network-architecture.png" width="700">
+
+## Wireless Authentication Flow
+<img src="wireless-authentication-flow.png" width="500">
